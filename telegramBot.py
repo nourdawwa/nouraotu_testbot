@@ -137,8 +137,8 @@ def bot_polling():
     bot.polling()
 
 
-bot_thread = threading.Thread(target=bot_polling)
-bot_thread.start()
+# bot_thread = threading.Thread(target=bot_polling)
+# bot_thread.start()
 
 while True:
     check_for_marks()
