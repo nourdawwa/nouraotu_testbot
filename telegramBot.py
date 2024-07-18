@@ -1,4 +1,4 @@
-# 6294128281:AAFVLK4FH37_m27DxtREOTK8MHtCQTc45ro
+# 7189832139:AAHmWfzToCQf3JI-2BiABMEzB5Z_x4E3tvc
 
 import time
 from statistics import mean
@@ -13,7 +13,7 @@ import os
 # Initialize the inflect engine
 p = inflect.engine()
 # Initialize the Telebot with your bot token
-bot = telebot.TeleBot("6294128281:AAFVLK4FH37_m27DxtREOTK8MHtCQTc45ro")
+bot = telebot.TeleBot("7189832139:AAHmWfzToCQf3JI-2BiABMEzB5Z_x4E3tvc")
 
 
 def scrape_marks():
